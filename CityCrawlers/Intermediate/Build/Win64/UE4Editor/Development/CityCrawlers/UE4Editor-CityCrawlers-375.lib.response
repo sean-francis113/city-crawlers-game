@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CityCrawlers-375.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\seanf\Documents\Unreal Projects\city-crawlers-game\CityCrawlers\Intermediate\Build\Win64\UE4Editor\Development\CityCrawlers\CityCrawlers.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\city-crawlers-game\CityCrawlers\Intermediate\Build\Win64\UE4Editor\Development\CityCrawlers\GM_MenusAndConnection.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\city-crawlers-game\CityCrawlers\Intermediate\Build\Win64\UE4Editor\Development\CityCrawlers\CityCrawlers.init.gen.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\city-crawlers-game\CityCrawlers\Intermediate\Build\Win64\UE4Editor\Development\CityCrawlers\GM_MenusAndConnection.gen.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\city-crawlers-game\CityCrawlers\Intermediate\Build\Win64\UE4Editor\Development\CityCrawlers\PCLaunch.rc.res"
+/OUT:"C:\Users\seanf\Documents\Unreal Projects\city-crawlers-game\CityCrawlers\Intermediate\Build\Win64\UE4Editor\Development\CityCrawlers\UE4Editor-CityCrawlers-375.lib"

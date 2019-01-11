@@ -1,0 +1,3 @@
+C:\Users\seanf\Documents\Unreal Projects\city-crawlers-game\CityCrawlers\Source\CityCrawlers\CityCrawlers.Build.cs
+C:\Users\seanf\Documents\Unreal Projects\city-crawlers-game\CityCrawlers\Source\CityCrawlers.Target.cs
+C:\Users\seanf\Documents\Unreal Projects\city-crawlers-game\CityCrawlers\Source\CityCrawlersEditor.Target.cs
